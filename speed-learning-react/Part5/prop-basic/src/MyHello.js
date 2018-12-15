@@ -1,8 +1,8 @@
-import React, {Componrnt} from 'react';
+import React, {Component} from 'react';
 // prop-typesのインポート
 import PropTypes from 'prop-types';
 
-export default class MyHello extends Comment {
+export default class MyHello extends Component {
 
 }
 

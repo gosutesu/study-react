@@ -4,7 +4,7 @@ import MyHello from './MyHello';
 
 export class Member{}
 
-export default class MyProp extends Comment {
+export default class MyProp extends Component {
     render() {
         console.log(this.props);
         return<p>結果をコンソールを確認してください。</p>
